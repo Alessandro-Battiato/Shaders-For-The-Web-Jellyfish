@@ -1,0 +1,8 @@
+body {
+	background-color: #000000;
+	
+  background-image: url(header.svg), url(footer.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: top left, bottom right;
+}
